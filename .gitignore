@@ -47,3 +47,11 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# auxiliary tests
+test.R
+
+# User project files
+*.Rproj
+
+
