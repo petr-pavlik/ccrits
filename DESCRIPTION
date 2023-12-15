@@ -6,6 +6,8 @@ Date: 2023-12-15
 Author: Petr Pavlík
 Maintainer: Petr Pavlík <petrpavlik.xyz@email.com>
 Description: The package contains C++ implementation of goodnes-of-fit criteria
-License: GPL (>= 2)
+License: GPL (>= 3.0)
 Imports: Rcpp (>= 1.0.11)
 LinkingTo: Rcpp
+Encoding: UTF-8
+RoxygenNote: 7.2.3
